@@ -12,7 +12,7 @@ const testimonials = [
         testimonial:`Dedicated and motivated final year Computer Science Student. Seeking opportunities to apply and enhance my technical skills, academic knowledge and gain hands-on experience while contributing and gaining skills under mentorship of experienced professionals.`,
     },
     {
-        name:"Noaman",
+        name:"Mohammed Noaman",
         position:"Associate Software Engineer",
         image:"profile.png",
         testimonial:`Dedicated and motivated final year Computer Science Student. Seeking opportunities to apply and enhance my technical skills, academic knowledge and gain hands-on experience while contributing and gaining skills under mentorship of experienced professionals.`,
